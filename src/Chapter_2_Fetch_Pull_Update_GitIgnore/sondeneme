@@ -1,0 +1,4 @@
+Push of the current branch "master" was rejected. Remote changes need to be merged before pushing.  
+Push of the current branch "master" was rejected. Remote changes need to be merged before pushing.  
+In this case merge is highly recommended, because there are non-pushed merge commits.
+Rebasing them can lead to problems.
