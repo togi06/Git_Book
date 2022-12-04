@@ -1,0 +1,10 @@
+
+
+
+so far we leatned git flow for
+commit--> push
+
+and 
+
+remote ->local
+pıll/update
