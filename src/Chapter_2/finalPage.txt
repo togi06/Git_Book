@@ -1,9 +1,2 @@
 ,
 
-so far we learned git flow for
-commit-> push
-
-and 
-
-remote -> local 
-pull7update
