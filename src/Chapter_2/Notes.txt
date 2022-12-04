@@ -9,3 +9,6 @@ keep working ın chapter 2
 more suggestions 
 
 add these things
+
+more fun
+more Java
